@@ -2,8 +2,6 @@
 
 ## RULES SUMMARY
 
----
-
 ### CHARACTER CREATION
 
 **ATTRIBUTES**: Roll 2d6 for each. on a 6-, the value is 0. on a 7-9, the value is +1. on a 10 or 11, the value is +2. On a 12, the value is +3.

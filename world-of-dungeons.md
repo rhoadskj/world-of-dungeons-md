@@ -40,8 +40,6 @@
 
 *These rules are yours to bend to your will! You may find it natural to expand, redact, and modify them as you your game goes on. We advise keeping an open mind and lively discussion of possibilities at the table.*
 
----
-
 ## MAGIC
 
 *Most magic requires summoning a spirit, demon, or elemental to perform supernatural effects.*
@@ -55,8 +53,6 @@ To summon a spirit you know, you require one of the following:
 * A magic item containing a bound spirit.
 
 A Wizard may command a spirit to perform a single magical effect that falls within its domains (it’s a good idea to give specific commands; spirits and demons can be capricious and cruel). **Magical attacks do 2d6+level** or 3d6+level damage if they are especially suited to the situation (using fire against a Frost Wraith, for example).
-
----
 
 ## EQUIPMENT
 
@@ -100,8 +96,6 @@ A Wizard may command a spirit to perform a single magical effect that falls with
 
 **Horses**: Mule (30s), Horse (100s), Warhorse (1,000s).
 
----
-
 ## HIRELINGS
 
 *Cost per day.*
@@ -115,8 +109,6 @@ A Wizard may command a spirit to perform a single magical effect that falls with
 **Expert** (20s): 6HP, Skill 4, Dagger, Bow.
 
 **Champion** (60s): 18HP, Full Armor, Halberd, Sword, Shield, Dagger.
-
----
 
 ## XP & LEVELS
 
